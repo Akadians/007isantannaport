@@ -7,8 +7,10 @@
     "\\src\\app\\errors\\not-found",
     "\\src\\app\\photos",
     "\\src\\app\\photos\\photo",
-    "\\src\\app\\photos\\photo-list"
+    "\\src\\app\\photos\\photo-form",
+    "\\src\\app\\photos\\photo-list",
+    "\\src\\app\\photos\\photo-list\\photos"
   ],
-  "SelectedNode": "\\src\\app\\app.routing.module.ts",
+  "SelectedNode": "\\angular.json",
   "PreviewInSolutionExplorer": false
 }
