@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\node_modules",
+    "\\node_modules\\bootstrap",
+    "\\node_modules\\bootstrap\\dist",
+    "\\node_modules\\bootstrap\\dist\\css",
     "\\src",
     "\\src\\app",
-    "\\src\\app\\errors",
-    "\\src\\app\\errors\\not-found",
     "\\src\\app\\photos",
-    "\\src\\app\\photos\\photo",
-    "\\src\\app\\photos\\photo-form",
     "\\src\\app\\photos\\photo-list",
-    "\\src\\app\\photos\\photo-list\\photos"
+    "\\src\\app\\photos\\photo-list\\load-button"
   ],
-  "SelectedNode": "\\angular.json",
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
